@@ -1,5 +1,5 @@
 ## Mapa con obstaculos
-Son object a los que se les asigno una colision, en caso del plano se le añadió aparte nav mesh surface
+Son object a los que se les asigno una colision, en caso del plano se le añadió aparte nav mesh surface para disponerle movimiento a la ia del objetivo
 
 
 ## Player
