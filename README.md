@@ -16,3 +16,6 @@ El movimiento de camara se realiza de la forma mas facil posible, con un transfo
 
 ##Objetos recolectables
 Se emplea las llamadas de OnEnteredTrigger o OnCollision para detectar cuando entro en contacto con cualquier objeto segun el tag que le asignemos, los perfabs son comodos para este tipo de objetos ya que sus caracteristicas se comparten con el resto.
+
+
+<img width="1094" height="525" alt="imagen" src="https://github.com/user-attachments/assets/537313bd-c702-438c-805c-7922c5f8f75d" />
